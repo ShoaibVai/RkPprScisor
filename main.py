@@ -76,7 +76,7 @@ def play_game():
         print(f"Player Score: {plyrScore}")
         print("BOOOOOOO!! YOU LOOOST!!! :v ")
 
-    restart = input("Press \"Enter\" to Finish the Match or Press 'R' to restart the programme")
+    restart = input("Press \"Enter\" to Finish the Match or Press 'R' to restart the programme\n")
     if restart.lower() == 'r':
         play_game()
 
