@@ -70,3 +70,4 @@ else:
     print(f"Computer Score: {comScore}")
     print(f"Player Score: {plyrScore}")
     print("BOOOOOOO!! YOU LOOOST!!! :v ")
+input("Press \"Enter\" to continue")
