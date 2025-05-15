@@ -81,5 +81,3 @@ def play_game():
         play_game()
 
 play_game()
-
-//TEST Comment habijabi
